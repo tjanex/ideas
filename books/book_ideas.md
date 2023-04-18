@@ -9,3 +9,5 @@
 - [x] RxSwift by tutorials
 - [X] Mastering git
 - [ ] Care and feeding of developers
+- [ ] Debugging with the Grace Hopper Method
+
